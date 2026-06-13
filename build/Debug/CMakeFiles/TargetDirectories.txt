@@ -1,0 +1,4 @@
+/home/dim-sim/workspace/quant_projects/youtube/ringbuffer/build/Debug/CMakeFiles/bench.dir
+/home/dim-sim/workspace/quant_projects/youtube/ringbuffer/build/Debug/CMakeFiles/benchburst.dir
+/home/dim-sim/workspace/quant_projects/youtube/ringbuffer/build/Debug/CMakeFiles/edit_cache.dir
+/home/dim-sim/workspace/quant_projects/youtube/ringbuffer/build/Debug/CMakeFiles/rebuild_cache.dir
